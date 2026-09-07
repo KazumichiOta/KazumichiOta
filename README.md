@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kazumichi Ota
 
-<!--
-**KazumichiOta/KazumichiOta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Neurologist and neuroimaging researcher.
 
-Here are some ideas to get you started:
+Research interests include age-appropriate anatomical standard spaces,
+brain MRI registration, stroke neuroimaging, and reproducible neuroimaging methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="EBT_preview.png" width="650"
+       alt="Elderly Brain Template">
+</p>
+
+## Projects
+
+- [Elderly Brain Template (EBT)](https://github.com/KazumichiOta/elderly-brain-template)
+- [EBT–MNI152 Stroke Standard-Space Comparison](https://github.com/KazumichiOta/ebt-mni152-stroke-standardspace)
+
+## Links
+
+- [ORCID](https://orcid.org/0000-0002-5440-4663)
