@@ -6,7 +6,7 @@ Research interests include age-appropriate anatomical standard spaces,
 brain MRI registration, stroke neuroimaging, and reproducible neuroimaging methods.
 
 <p align="center">
-  <img src="EBT_preview_home.png" width="550"
+  <img src="EBT_preview_home.png" width="800"
        alt="Elderly Brain Template">
 </p>
 
