@@ -18,3 +18,4 @@ brain MRI registration, stroke neuroimaging, and reproducible neuroimaging metho
 ## Links
 
 - [ORCID](https://orcid.org/0000-0002-5440-4663)
+- [Neurostars – Elderly Brain Template announcement and updates](https://neurostars.org/t/ann-elderly-brain-template-1-mm-cc-by-4-0-open-dataset-for-aging-neuroimaging/34308/4)
